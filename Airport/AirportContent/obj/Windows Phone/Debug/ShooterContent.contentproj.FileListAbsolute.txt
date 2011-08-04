@@ -1,0 +1,2 @@
+C:\Users\serup\Downloads\Shooter_Player_Phone\Shooter\Shooter\ShooterContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\serup\Downloads\WindowsPhoneDevelopmentCourse\2D Game Development Tutorial\2D Game Development Tutorial\Exercise 1 - Draw Something\working version\Shooter\ShooterContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
